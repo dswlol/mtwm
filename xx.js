@@ -1,5 +1,5 @@
-function xx(a,b,c){
+function xx(a,b,c,d,e){
     return a*b*c
 }
 
-xx(1,4,6)
+xx(1,4,6,0,1)
