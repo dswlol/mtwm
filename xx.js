@@ -1,4 +1,4 @@
-function xx(a,b,c,d,e){
+function xx(a,b,c){
     return a*b*c
 }
 
